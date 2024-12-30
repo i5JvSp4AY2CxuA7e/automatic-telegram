@@ -123,3 +123,6 @@ https://github.com/yt-dlp/yt-dlp
 
 >FFmpeg <br/>
 https://www.ffmpeg.org/download.html
+
+>>PotPlayer <br/>
+https://potplayer.daum.net/
