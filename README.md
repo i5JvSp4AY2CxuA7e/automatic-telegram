@@ -68,6 +68,8 @@ https://chromewebstore.google.com/detail/youtube-windowed-fullscre/gkkmiofalnjag
 >Youtube-shorts block <br/>
 https://chromewebstore.google.com/detail/youtube-shorts-block/jiaopdjbehhjgokpphdfgmapkobbnmjp?hl=ja
 
+https://chromewebstore.google.com/detail/youtube-no-translation/lmkeolibdeeglfglnncmfleojmakecjb
+
 
 **Programs**
 >Brave <br/>
@@ -129,3 +131,13 @@ https://potplayer.daum.net/
 
 >Media Downloader <br/>
 https://github.com/mhogomchungu/media-downloader
+
+**Yomitan Dictionaries**
+
+https://github.com/stephenmk/stephenmk.github.io/releases/latest/download/jitendex-yomitan.zip
+
+https://github.com/yomidevs/jmdict-yomitan/releases/latest/download/JMdict_english_with_examples.zip
+
+https://github.com/yomidevs/jmdict-yomitan/releases/latest/download/JMnedict.zip
+
+https://github.com/yomidevs/jmdict-yomitan/releases/latest/download/KANJIDIC_english.zip
