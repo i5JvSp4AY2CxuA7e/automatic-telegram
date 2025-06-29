@@ -68,6 +68,7 @@ https://chromewebstore.google.com/detail/youtube-windowed-fullscre/gkkmiofalnjag
 >Youtube-shorts block <br/>
 https://chromewebstore.google.com/detail/youtube-shorts-block/jiaopdjbehhjgokpphdfgmapkobbnmjp?hl=ja
 
+>YouTube No Translation <br/>
 https://chromewebstore.google.com/detail/youtube-no-translation/lmkeolibdeeglfglnncmfleojmakecjb
 
 
