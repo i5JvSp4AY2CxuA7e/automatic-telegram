@@ -62,14 +62,15 @@ https://chromewebstore.google.com/detail/Volume%20Master/jghecgabfgfdldnmbfkhmff
 >Yomitan Popup Dictionary <br/>
 https://chromewebstore.google.com/detail/yomitan-popup-dictionary/likgccmbimhjbgkjambclfkhldnlhbnn
 
+>YouTube No Translation <br/>
+https://chromewebstore.google.com/detail/youtube-no-translation/lmkeolibdeeglfglnncmfleojmakecjb
+
 >YouTube Windowed FullScreen <br/>
 https://chromewebstore.google.com/detail/youtube-windowed-fullscre/gkkmiofalnjagdcjheckamobghglpdpm?hl=ja
 
 >Youtube-shorts block <br/>
 https://chromewebstore.google.com/detail/youtube-shorts-block/jiaopdjbehhjgokpphdfgmapkobbnmjp?hl=ja
 
->YouTube No Translation <br/>
-https://chromewebstore.google.com/detail/youtube-no-translation/lmkeolibdeeglfglnncmfleojmakecjb
 
 
 **Programs**
