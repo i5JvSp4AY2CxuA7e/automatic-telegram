@@ -15,6 +15,10 @@ https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 >DirectX <br/>
 https://www.microsoft.com/en-us/download/details.aspx?id=35
 
+>Visual C++ Redistributable Runtimes All-in-One <br/>
+https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/
+
+
 
 **Drivers**
 
