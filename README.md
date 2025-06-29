@@ -29,7 +29,7 @@ https://www.nvidia.com/en-us/software/nvidia-app/
 https://www.logitechg.com/en-us/innovation/g-hub.html
 
 >Razer Synapse 3 <br/>
-https://www.razer.com/synapse-3
+https://mysupport.razer.com/app/answers/detail/a_id/4130/~/razer-synapse-3-supported-devices
 
 
 **Browser Extensions**
