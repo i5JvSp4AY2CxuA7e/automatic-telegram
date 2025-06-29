@@ -132,12 +132,5 @@ https://potplayer.daum.net/
 >Media Downloader <br/>
 https://github.com/mhogomchungu/media-downloader
 
-**Yomitan Dictionaries**
-
-https://github.com/stephenmk/stephenmk.github.io/releases/latest/download/jitendex-yomitan.zip
-
-https://github.com/yomidevs/jmdict-yomitan/releases/latest/download/JMdict_english_with_examples.zip
-
-https://github.com/yomidevs/jmdict-yomitan/releases/latest/download/JMnedict.zip
-
-https://github.com/yomidevs/jmdict-yomitan/releases/latest/download/KANJIDIC_english.zip
+>UpNote <br/>
+https://getupnote.com/#download
