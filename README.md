@@ -51,6 +51,9 @@ https://chromewebstore.google.com/detail/return-youtube-dislike/gebbhagfogifgggk
 >SponsorBlock <br/>
 https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone
 
+>SteamDB <br/>
+https://chromewebstore.google.com/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon?pli=1
+
 >Tampermonkey <br/>
 https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
@@ -72,12 +75,10 @@ https://chromewebstore.google.com/detail/youtube-no-translation/lmkeolibdeeglfgl
 >YouTube Windowed FullScreen <br/>
 https://chromewebstore.google.com/detail/youtube-windowed-fullscre/gkkmiofalnjagdcjheckamobghglpdpm?hl=ja
 
->Youtube-shorts block <br/>
-https://chromewebstore.google.com/detail/youtube-shorts-block/jiaopdjbehhjgokpphdfgmapkobbnmjp?hl=ja
-
 
 
 **Programs**
+
 >Brave <br/>
 https://brave.com/ja/download/
 
@@ -140,3 +141,56 @@ https://github.com/mhogomchungu/media-downloader
 
 >UpNote <br/>
 https://getupnote.com/#download
+
+>YomiNinja <br/>
+https://github.com/matt-m-o/YomiNinja/releases/
+
+>localsend <br/>
+https://github.com/localsend/localsend/releases/
+
+>Special K <br/>
+https://www.special-k.info/
+
+>SAM <br/>
+https://github.com/gibbed/SteamAchievementManager/releases
+
+
+
+**Scripts**
+
+>TwitchADSolutions <br/>
+https://github.com/pixeltris/TwitchAdSolutions
+
+>WinUtil (PowerShell) <br/>
+irm "https://christitus.com/win" | iex
+
+>Win11Debloat (PowerShell) <br/>
+& ([scriptblock]::Create((irm "https://debloat.raphi.re/")))
+
+
+
+**Yomitan Dictionaries**
+
+>Jitendex <br/>
+https://jitendex.org/pages/downloads.html
+
+>JMdict <br/>
+https://github.com/yomidevs/jmdict-yomitan#downloads
+
+>JMnedict <br/>
+https://github.com/yomidevs/jmdict-yomitan#downloads
+
+>KANJIDIC <br/>
+https://github.com/yomidevs/jmdict-yomitan#downloads
+
+>BCCWJ Frequency Dictionary <br/>
+https://github.com/Kuuuube/yomitan-dictionaries?tab=readme-ov-file#bccwj-suw-luw-combined
+
+>JPDB Frequency Dictionary <br/>
+https://github.com/Kuuuube/yomitan-dictionaries?tab=readme-ov-file#jpdb-v22-frequency
+
+>Grammar <br/>
+https://learnjapanese.link/dictionaries
+
+>Pitch Accent <br/>
+https://learnjapanese.link/dictionaries
