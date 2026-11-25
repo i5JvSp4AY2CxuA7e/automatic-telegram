@@ -112,9 +112,6 @@ https://store.steampowered.com/about/
 >Telegram <br/>
 https://desktop.telegram.org/
 
->Core Temp <br/>
-https://www.alcpu.com/CoreTemp/
-
 >CPU-Z <br/>
 https://www.cpuid.com/softwares/cpu-z.html
 
