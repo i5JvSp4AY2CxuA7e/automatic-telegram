@@ -42,9 +42,6 @@ https://chromewebstore.google.com/detail/deepl-ai-translator-and-w/cofdbpoegempj
 >Jisho Extension <br/>
 https://chromewebstore.google.com/detail/jisho-extension/iblocgbegbfbikfpjajboohgnegaonho
 
->Remove Twitch Recommended <br/>
-https://chromewebstore.google.com/detail/remove-twitch-recommended/kgoadafofbfjlfofcogilchhnabiffnh
-
 >Return YouTube Dislike <br/>
 https://chromewebstore.google.com/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi
 
@@ -59,9 +56,6 @@ https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmp
 
 >uBlock Origin <br/>
 https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
-
->Unhook <br/>
-https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid
 
 >Volume Master <br/>
 https://chromewebstore.google.com/detail/Volume%20Master/jghecgabfgfdldnmbfkhmffcabddioke
@@ -126,18 +120,6 @@ https://www.cpuid.com/softwares/cpu-z.html
 
 >GPU-Z <br/>
 https://www.techpowerup.com/download/techpowerup-gpu-z/
-
->yt-dlp <br/>
-https://github.com/yt-dlp/yt-dlp
-
->FFmpeg <br/>
-https://www.ffmpeg.org/download.html
-
->PotPlayer <br/>
-https://potplayer.daum.net/
-
->Media Downloader <br/>
-https://github.com/mhogomchungu/media-downloader
 
 >UpNote <br/>
 https://getupnote.com/#download
